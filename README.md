@@ -6,11 +6,11 @@ The focus of this project is to explore foundational game development techniques
 
 * Raycasting
   
-*Grid-based movement
+* Grid-based movement
   
-*Handling player input
+* Handling player input
   
-*Rendering 2D maps into 3D spaces
+* Rendering 2D maps into 3D spaces
 
 ## 🖥️ Technologies Used
 
@@ -18,7 +18,7 @@ The focus of this project is to explore foundational game development techniques
 
 **Graphics Library**: MiniLibX (mlx)
 
-**Platform**: linux
+**Platform**: Linux
 
 ## 📐 How Raycasting Works
 
@@ -26,36 +26,40 @@ Raycasting is a rendering technique that simulates a 3D perspective by casting r
 
 Here's a brief breakdown of the process:
 
-*Raycasting Loop: The player’s field of view is divided into vertical strips, and rays are cast to detect walls in the maze.
+* **Raycasting Loop**: The player’s field of view is divided into vertical strips, and rays are cast to detect walls in the maze.
 
-*Distance Calculation: The distance between the player and the walls is calculated to determine how tall the walls should appear.
+* **Distance Calculation**: The distance between the player and the walls is calculated to determine how tall the walls should appear.
 
-*Wall Rendering: Based on the distance, walls are drawn as vertical strips, creating the illusion of depth.
+* **Wall Rendering**: Based on the distance, walls are drawn as vertical strips, creating the illusion of depth.
 
 
 ## 🚀 Getting Started
 
 **Prerequisites**
 
-*Linux
+* Linux
 
-*MiniLibX library (included in the project)
+* MiniLibX library (included in the project)
 
 **Building the Project**
 
 Clone the repository and run the following command to compile the project:
 
-```make```
+```
+make
+```
 
 **Running the Game**
 
 After building the project, launch the game with:
 
-```./cub3d <map file>
+```
+./cub3d <map file>
 ```
 Example:
 
-```./cub3d maps/test1.cub
+```
+./cub3d maps/test1.cub
 ```
 
 ## 🎮 Controls
@@ -101,9 +105,11 @@ The MiniLibX (mlx) is a lightweight graphics library used to handle window creat
 
 Included in the project:
 
-*Textured walls
+* Textured walls
   
-*A moving minimap
+* A moving minimap
+  
+* Wall collision detection
 
 Some potential features to add in future updates:
 
