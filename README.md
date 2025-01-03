@@ -126,3 +126,4 @@ The MiniLibX (mlx) is a lightweight graphics library used to handle window creat
 ## Acknowledgements
 
 Shoutout to @mcombeau for making available a very nice collection of maps and textures
+And thanks to @MacMosby for being a chill and very meticulous partner at the same time
