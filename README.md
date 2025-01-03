@@ -12,10 +12,8 @@ The focus of this project is to explore foundational game development techniques
   
 * Rendering 2D maps into 3D spaces
 
-![Screenshot1](https://github.com/user-attachments/assets/c8264cf0-3b79-47ae-a3f3-e6ac32ac0019)
-<img src="https://github.com/user-attachments/assets/c8264cf0-3b79-47ae-a3f3-e6ac32ac0019" alt="Screenshot1" width="200"/>
-![Screenshot2](https://github.com/user-attachments/assets/63d83588-4a65-43d0-a7d6-6cc8f623fc89)
-<img src="(https://github.com/user-attachments/assets/63d83588-4a65-43d0-a7d6-6cc8f623fc89)"  alt="Screenshot2" width="200">
+<img src="https://github.com/user-attachments/assets/c8264cf0-3b79-47ae-a3f3-e6ac32ac0019" alt="Screenshot1" width="400"/>
+<img src="https://github.com/user-attachments/assets/63d83588-4a65-43d0-a7d6-6cc8f623fc89"  alt="Screenshot2" width="400"/>
 
 
 
