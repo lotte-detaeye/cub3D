@@ -98,11 +98,12 @@ Example of a basic map:
 100001
 111111
 ```
+The .cub files in the map folder also include four paths to the textures for the walls, and the color codes for the ceiling and floor.
 
 
 ## 🖼️ MiniLibX Library
 
-The MiniLibX (mlx) is a lightweight graphics library used to handle window creation, drawing, and event handling in the game. It's compatible with linux and is commonly used in game development projects.
+The MiniLibX (mlx) is a lightweight graphics library used to handle window creation, drawing, and event handling in the game. It's compatible with Linux.
 
 
 
