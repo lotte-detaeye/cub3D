@@ -46,6 +46,7 @@ Here's a brief breakdown of the process:
 Clone the repository and run the following command to compile the project:
 
 ```
+git clone https://github.com/lotte-detaeye/cub3D.git
 make
 ```
 
@@ -54,7 +55,7 @@ make
 After building the project, launch the game with:
 
 ```
-./cub3d <map file>
+./cub3d <map_file>
 ```
 Example:
 
@@ -91,13 +92,9 @@ O, N, S or W: Player starting position and viewing direction
 Example of a basic map:
 
 111111
-
 100001
-
 100W01
-
 100001
-
 111111
 
 ## 🖼️ MiniLibX Library
