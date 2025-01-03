@@ -65,19 +65,15 @@ Example:
 
 ## 🎮 Controls
 
-**W** : Move forward
-
-**S** : Move backward
-
-**A** : Move left
-
-**D** : Move right
-
-**Left arrow**: Turn left
-
-**Right arrow**: Turn right
-
-**ESC** : Quit the game
+| Keys | Actions |
+| ------------|-------------| 
+| **W** | Move forward | 
+| **S** | Move backward | 
+| **A** | Move left | 
+| **D** | Move right | 
+| **Left arrow** | Turn left | 
+| **Right arrow** | Turn right | 
+| **ESC** | Quit the game| 
 
 ## 📋 Map Files
 
