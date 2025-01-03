@@ -12,6 +12,7 @@ The focus of this project is to explore foundational game development techniques
   
 * Rendering 2D maps into 3D spaces
 
+
 ## 🖥️ Technologies Used
 
 **Language**: C
@@ -19,6 +20,7 @@ The focus of this project is to explore foundational game development techniques
 **Graphics Library**: MiniLibX (mlx)
 
 **Platform**: Linux
+
 
 ## 📐 How Raycasting Works
 
@@ -63,6 +65,7 @@ Example:
 ./cub3d maps/test1.cub
 ```
 
+
 ## 🎮 Controls
 
 | Keys | Actions |
@@ -74,6 +77,7 @@ Example:
 | **Left arrow** | Turn left | 
 | **Right arrow** | Turn right | 
 | **ESC** | Quit the game| 
+
 
 ## 📋 Map Files
 
@@ -89,19 +93,17 @@ Example of a basic map:
 
 ```
 111111
-
 100001
-
 100W01
-
 100001
-
 111111
 ```
+
 
 ## 🖼️ MiniLibX Library
 
 The MiniLibX (mlx) is a lightweight graphics library used to handle window creation, drawing, and event handling in the game. It's compatible with linux and is commonly used in game development projects.
+
 
 
 ## ⚙️ Extras
@@ -119,6 +121,7 @@ The MiniLibX (mlx) is a lightweight graphics library used to handle window creat
 * Doors that can open to other rooms
 
 * Sprites (for collectibles, enemies etc.)
+  
 
 ## Acknowledgements
 
