@@ -79,14 +79,15 @@ Example:
 
 Map files are simple text files that define the layout of the maze. They use the following format:
 
-0: Empty space
-
-1: Wall
-
-O, N, S or W: Player starting position and viewing direction
+| Symbol | Map feature |
+| ------------|-------------| 
+| **0** | Empty Space| 
+| **1** | Wall| 
+| **O, N, S or W** | Player starting position and viewing direction | 
 
 Example of a basic map:
 
+```
 111111
 
 100001
@@ -96,6 +97,7 @@ Example of a basic map:
 100001
 
 111111
+```
 
 ## 🖼️ MiniLibX Library
 
