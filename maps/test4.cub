@@ -1,10 +1,10 @@
-NO textures/egypt/egypt_wall_north.xpm
-SO textures/egypt/egypt_wall_south.xpm
-WE textures/egypt/egypt_wall_west.xpm
-EA textures/egypt/egypt_wall_east.xpm
+NO textures/matrix.xpm
+SO textures/matrix.xpm
+WE textures/matrix.xpm
+EA textures/matrix.xpm
 
-F 23,18,4
-C 36,28,7
+F 0,0,0
+C 0,0,0
 
 11111111111111111111111111111111111111111
 10100010000000001000000010000100010100011

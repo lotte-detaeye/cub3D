@@ -1,7 +1,7 @@
-NO textures/star_wars/star_wars_wall_north_HD.xpm
-SO textures/star_wars/star_wars_wall_south_HD.xpm
-WE textures/star_wars/star_wars_wall_west_HD.xpm
-EA textures/star_wars/star_wars_wall_east_HD.xpm
+NO textures/star_wars/star_wars_wall_north.xpm
+SO textures/star_wars/star_wars_wall_south.xpm
+WE textures/star_wars/star_wars_wall_west.xpm
+EA textures/star_wars/star_wars_wall_east.xpm
 
 F 44,44,43
 C 33,33,23
