@@ -59,10 +59,6 @@ Example:
 `
 🎮 Controls
 
-Key
-
-Action
-
 W : Move forward
 
 S : Move backward
@@ -113,3 +109,7 @@ Some potential features to add in future updates:
   Doors that can open
 
   Sprites
+
+## Acknowledgements
+
+Shoutout to @mcombeau for making a collection of maps and textures available
