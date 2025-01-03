@@ -64,19 +64,19 @@ Example:
 
 ## 🎮 Controls
 
-W : Move forward
+**W** : Move forward
 
-S : Move backward
+**S** : Move backward
 
-A : Move left
+**A** : Move left
 
-D : Move right
+**D** : Move right
 
-Left arrow: Turn left
+**Left arrow**: Turn left
 
-Right arrow: Turn right
+**Right arrow**: Turn right
 
-ESC : Quit the game
+**ESC** : Quit the game
 
 ## 📋 Map Files
 
@@ -91,6 +91,7 @@ O, N, S or W: Player starting position and viewing direction
 Example of a basic map:
 
 111111
+
 100001
 100W01
 100001
@@ -103,19 +104,19 @@ The MiniLibX (mlx) is a lightweight graphics library used to handle window creat
 
 ## ⚙️ Extras
 
-Included in the project:
-
+**Included in the project:
+**
 * Textured walls
   
 * A moving minimap
   
 * Wall collision detection
 
-Some potential features to add in future updates:
+**Some potential features to add in future updates:
+**
+* Doors that can open to other rooms
 
-*Doors
-
-*Sprites (for collectibles, enemies etc.)
+* Sprites (for collectibles, enemies etc.)
 
 ## Acknowledgements
 
