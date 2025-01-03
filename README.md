@@ -43,7 +43,7 @@ Here's a brief breakdown of the process:
 
 **Building the Project**
 
-Clone the repository and run the following command to compile the project:
+Clone the repository and run the make command to compile the project:
 
 ```
 git clone https://github.com/lotte-detaeye/cub3D.git
@@ -92,9 +92,13 @@ O, N, S or W: Player starting position and viewing direction
 Example of a basic map:
 
 111111
+
 100001
+
 100W01
+
 100001
+
 111111
 
 ## 🖼️ MiniLibX Library
