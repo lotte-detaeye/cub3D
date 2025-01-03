@@ -7,13 +7,13 @@ This project is a simplified recreation of the classic game Wolfenstein 3D, impl
 
 The focus of this project is to explore foundational game development techniques and computer graphics concepts, such as:
 
-Raycasting
-
-Grid-based movement
-
-Handling player input
-
-Rendering 2D maps into 3D spaces
+  Raycasting
+  
+  Grid-based movement
+  
+  Handling player input
+  
+  Rendering 2D maps into 3D spaces
 
 🖥️ Technologies Used
 
@@ -40,9 +40,9 @@ Wall Rendering: Based on the distance, walls are drawn as vertical strips, creat
 
 Prerequisites
 
-linux
+  linux
 
-MiniLibX library (included in the project)
+  MiniLibX library (included in the project)
 
 Building the Project
 
@@ -103,11 +103,16 @@ Example of a basic map:
 The MiniLibX (mlx) is a lightweight graphics library used to handle window creation, drawing, and event handling in the game. It's compatible with linux and is commonly used in game development projects.
 
 
-⚙️ Future Improvements
+⚙️ Extras
+
+Included in the project:
+
+  Textured walls
+  
+  A moving minimap
 
 Some potential features to add in future updates:
 
-Textured walls
+  Doors that can open
 
-A moving minimap
-
+  Sprites
