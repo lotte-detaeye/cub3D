@@ -1,6 +1,3 @@
-# cub3D
-This project is a simplified recreation of the game Wolfenstein 3D, featuring a raycasting algorithm to render the maze.
-
 ## 📋 Project Overview
 
 This project is a simplified recreation of the classic game Wolfenstein 3D, implemented in C. The game uses a raycasting algorithm to render a 3D maze from a 2D map. The player navigates the maze from a first-person perspective, experiencing a retro-style 3D environment. The display is handled using the MiniLibX (MiniLibX Graphics Library).
