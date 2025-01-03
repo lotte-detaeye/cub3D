@@ -4,7 +4,7 @@ This project is a simplified recreation of the classic game Wolfenstein 3D, impl
 
 The focus of this project is to explore foundational game development techniques and computer graphics concepts, such as:
 
-*Raycasting
+* Raycasting
   
 *Grid-based movement
   
@@ -35,29 +35,30 @@ Here's a brief breakdown of the process:
 
 ## 🚀 Getting Started
 
-Prerequisites
+**Prerequisites**
 
 *Linux
 
 *MiniLibX library (included in the project)
 
-Building the Project
+**Building the Project**
 
 Clone the repository and run the following command to compile the project:
 
-`make`
+```make```
 
-Running the Game
+**Running the Game**
 
 After building the project, launch the game with:
 
-`./cub3d <map file>
-`
+```./cub3d <map file>
+```
 Example:
 
-`./cub3d maps/test1.cub
-`
-🎮 Controls
+```./cub3d maps/test1.cub
+```
+
+## 🎮 Controls
 
 W : Move forward
 
