@@ -4,21 +4,21 @@ This project is a simplified recreation of the classic game Wolfenstein 3D, impl
 
 The focus of this project is to explore foundational game development techniques and computer graphics concepts, such as:
 
-  Raycasting
+*Raycasting
   
-  Grid-based movement
+*Grid-based movement
   
-  Handling player input
+*Handling player input
   
-  Rendering 2D maps into 3D spaces
+*Rendering 2D maps into 3D spaces
 
 ## 🖥️ Technologies Used
 
-Language: C
+**Language**: C
 
-Graphics Library: MiniLibX (mlx)
+**Graphics Library**: MiniLibX (mlx)
 
-Platform: linux
+**Platform**: linux
 
 ## 📐 How Raycasting Works
 
@@ -26,20 +26,20 @@ Raycasting is a rendering technique that simulates a 3D perspective by casting r
 
 Here's a brief breakdown of the process:
 
-Raycasting Loop: The player’s field of view is divided into vertical strips, and rays are cast to detect walls in the maze.
+*Raycasting Loop: The player’s field of view is divided into vertical strips, and rays are cast to detect walls in the maze.
 
-Distance Calculation: The distance between the player and the walls is calculated to determine how tall the walls should appear.
+*Distance Calculation: The distance between the player and the walls is calculated to determine how tall the walls should appear.
 
-Wall Rendering: Based on the distance, walls are drawn as vertical strips, creating the illusion of depth.
+*Wall Rendering: Based on the distance, walls are drawn as vertical strips, creating the illusion of depth.
 
 
 ## 🚀 Getting Started
 
 Prerequisites
 
-  linux
+*Linux
 
-  MiniLibX library (included in the project)
+*MiniLibX library (included in the project)
 
 Building the Project
 
@@ -51,7 +51,7 @@ Running the Game
 
 After building the project, launch the game with:
 
-`./cub3d maps/test1.cub
+`./cub3d <map file>
 `
 Example:
 
@@ -100,16 +100,16 @@ The MiniLibX (mlx) is a lightweight graphics library used to handle window creat
 
 Included in the project:
 
-  Textured walls
+*Textured walls
   
-  A moving minimap
+*A moving minimap
 
 Some potential features to add in future updates:
 
-  Doors that can open
+*Doors
 
-  Sprites
+*Sprites (for collectibles, enemies etc.)
 
 ## Acknowledgements
 
-Shoutout to @mcombeau for making a collection of maps and textures available
+Shoutout to @mcombeau for making available a very nice collection of maps and textures
