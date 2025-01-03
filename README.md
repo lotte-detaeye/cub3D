@@ -30,7 +30,7 @@ Here's a brief breakdown of the process:
 
 * **Raycasting Loop**: The player’s field of view is divided into vertical strips, and rays are cast to detect walls in the maze.
 
-* **Distance Calculation**: The distance between the player and the walls is calculated to determine how tall the walls should appear.
+* **Distance Calculation**: Using trigonometry, the distance between the player and the walls is calculated to determine how tall the walls should appear.
 
 * **Wall Rendering**: Based on the distance, walls are drawn as vertical strips, creating the illusion of depth.
 
