@@ -93,8 +93,11 @@ Example of a basic map:
 111111
 
 100001
+
 100W01
+
 100001
+
 111111
 
 ## 🖼️ MiniLibX Library
@@ -104,16 +107,16 @@ The MiniLibX (mlx) is a lightweight graphics library used to handle window creat
 
 ## ⚙️ Extras
 
-**Included in the project:
-**
+**Included in the project:**
+
 * Textured walls
   
 * A moving minimap
   
 * Wall collision detection
 
-**Some potential features to add in future updates:
-**
+**Some potential features to add in future updates:**
+
 * Doors that can open to other rooms
 
 * Sprites (for collectibles, enemies etc.)
